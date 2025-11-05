@@ -1,13 +1,13 @@
 <h1 align="center">vite-plugin-time-reporter</h1>
 
 <p align="center">
-  <a href="https://github.com/Shinigami92/vite-plugin-time-reporter/blob/main/LICENSE">
+  <a href="https://github.com/benjamin-tw/vite-plugin-time-reporter/blob/main/LICENSE">
     <img alt="license: MIT" src="https://img.shields.io/github/license/Shinigami92/vite-plugin-time-reporter.svg?style=flat-square">
   </a>
-  <a href="https://www.npmjs.com/package/vite-plugin-time-reporter" target="_blank">
+  <a href="https://www.npmjs.com/package/vite-plugin-time-reporter-vite7" target="_blank">
     <img alt="NPM package" src="https://img.shields.io/npm/v/vite-plugin-time-reporter.svg?style=flat-square">
   </a>
-  <a href="https://www.npmjs.com/package/vite-plugin-time-reporter" target="_blank">
+  <a href="https://www.npmjs.com/package/vite-plugin-time-reporter-vite-7" target="_blank">
     <img alt="downloads" src="https://img.shields.io/npm/dt/vite-plugin-time-reporter.svg?style=flat-square">
   </a>
   <a href="https://github.com/prettier/prettier" target="_blank">
@@ -16,13 +16,14 @@
   <a href="https://github.com/vitejs/awesome-vite#transformers" target="_blank">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
   </a>
-  <a href="https://github.com/Shinigami92/vite-plugin-time-reporter/actions/workflows/ci.yml">
-    <img alt="Build Status" src="https://github.com/Shinigami92/vite-plugin-time-reporter/actions/workflows/ci.yml/badge.svg?branch=main">
-  </a>
 </p>
 
 <p align="center">
   Time reporting for <a href="https://github.com/vitejs/vite" target="_blank">Vite</a> project.
+</p>
+
+<p align="center">
+  Forked from <a href="https://github.com/Shinigami92/vite-plugin-time-reporter" target="_blank">https://github.com/Shinigami92/vite-plugin-time-reporter</a>, updated for Vite 7.
 </p>
 
 ## Usage

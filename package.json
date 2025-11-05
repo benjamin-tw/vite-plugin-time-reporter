@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-time-reporter-vite7",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "Time reporting for Vite project",
   "scripts": {
     "clean": "rimraf .eslintcache coverage dist pnpm-lock.yaml node_modules",
@@ -42,9 +42,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shinigami92/vite-plugin-time-reporter.git"
+    "url": "https://github.com/benjamin-tw/vite-plugin-time-reporter.git"
   },
-  "bugs": "https://github.com/Shinigami92/vite-plugin-time-reporter/issues",
+  "bugs": "https://github.com/benjamin-tw/vite-plugin-time-reporter/issues",
   "license": "MIT",
   "files": [
     "dist",
